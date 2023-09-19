@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+}
+
+.inputs_Datatables {
+  margin: 50px;
+  justify-content: space-between;
+}
